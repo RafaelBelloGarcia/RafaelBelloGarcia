@@ -6,7 +6,6 @@
     - 🔭 Atualmente estou trabalhando em projetos pessoais
     - 🌱 Atualmente estou aprendendo JavaScript, React, React Native, Node JS
     - 👯 Estou procurando colaborar em projetos web
-    - 🤔 Estou procurando ajuda com oportunidades
     - 💬 Pergunte-me sobre qualquer coisa e tentarei ajudá-lo como puder!
 
 </div>
@@ -38,8 +37,8 @@
 
 <div>
     <a href="https://github.com/RafaelBelloGarcia">
-        <img height="180em" width="100%"
+        <img height="180em" width="80%"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelBelloGarcia&layout=compact&langs_count=7&theme=dracula" />
-        <img height="180em" width="100%" 
+        <img height="180em" width="80%" 
             src="https://github-readme-stats.vercel.app/api?username=RafaelBelloGarcia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 </div>
