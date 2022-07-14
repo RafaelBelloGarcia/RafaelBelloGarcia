@@ -1,12 +1,7 @@
-<div style="flex" style="flex-direction: column">
+<div>
 
     ### Olá pessoal 👋
 
-
-    **RafaelBelloGarcia/RafaelBelloGarcia** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo)
-    aparece em seu perfil GitHub.
-
-    Aqui estão algumas idéias para você começar:
 
     - 🔭 Atualmente estou trabalhando em projetos pessoais
     - 🌱 Atualmente estou aprendendo JavaScript, React, React Native, Node JS
@@ -43,8 +38,8 @@
 
 <div>
     <a href="https://github.com/RafaelBelloGarcia">
-        <img height="130em" width="100%"
+        <img height="130em" width="50%" align="left"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelBelloGarcia&layout=compact&langs_count=7&theme=dracula" />
-        <img height="130em" width="100%"
+        <img height="130em" width="50%" align="right"
             src="https://github-readme-stats.vercel.app/api?username=RafaelBelloGarcia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 </div>
