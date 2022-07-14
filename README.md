@@ -1,6 +1,7 @@
 ### Olá pessoal 👋
 
-<div class="tenor-gif-embed" data-postid="20136589" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/hello-there-baby-yoda-mandolorian-hello-gif-20136589">Hello There Baby Yoda GIF</a>from <a href="https://tenor.com/search/hello+there-gifs">Hello There GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="20136589" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/hello-there-baby-yoda-mandolorian-hello-gif-20136589">Hello There Baby Yoda GIF</a>from <a href="https://tenor.com/search/hello+there-gifs">Hello There GIFs</a></div> 
+<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <!--
 **RafaelBelloGarcia/RafaelBelloGarcia** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
@@ -28,13 +29,13 @@ Aqui estão algumas idéias para você começar:
 </div>
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/RafaelBelloGarcia">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <div>
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/RafaelBelloGarcia/RafaelBelloGarcia/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
