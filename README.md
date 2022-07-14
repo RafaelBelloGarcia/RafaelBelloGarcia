@@ -1,8 +1,6 @@
+<div>
 ### Olá pessoal 👋
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-  
 <!--
 **RafaelBelloGarcia/RafaelBelloGarcia** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
 
@@ -14,6 +12,11 @@ Aqui estão algumas idéias para você começar:
 - 🤔 Estou procurando ajuda com oportunidades
 - 💬 Pergunte-me sobre qualquer coisa e tentarei ajudá-lo como puder! 
 -->
+</div>
+  
+<div>
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+</div>
 
 ### Contatos:
 
