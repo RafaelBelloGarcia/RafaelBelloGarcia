@@ -43,8 +43,8 @@
 
 <div>
     <a href="https://github.com/RafaelBelloGarcia">
-        <img height="130em"
+        <img height="130em" width="100%"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelBelloGarcia&layout=compact&langs_count=7&theme=dracula" />
-        <img height="130em"
+        <img height="130em" width="100%"
             src="https://github-readme-stats.vercel.app/api?username=RafaelBelloGarcia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 </div>
