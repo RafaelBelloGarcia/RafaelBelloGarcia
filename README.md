@@ -4,7 +4,7 @@
 
 
     - 🔭 Atualmente estou trabalhando em projetos pessoais
-    - 🌱 Atualmente estou aprendendo JavaScript, React, React Native, Node JS
+    - 🌱 Atualmente estou aprendendo JavaScript, React, JAVA
     - 👯 Estou procurando colaborar em projetos
     - 💬 Pergunte-me sobre qualquer coisa e tentarei ajudá-lo como puder!
 
