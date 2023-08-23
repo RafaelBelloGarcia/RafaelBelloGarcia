@@ -4,7 +4,7 @@
 
 
     - 🔭 Atualmente estou trabalhando em projetos pessoais
-    - 🌱 Habilidades em desenvolvimento: HTML, CSS, JavaScript, React, JAVA
+    - 🌱 Habilidades: HTML, CSS, JavaScript, React, JAVA
     - 👯 Estou procurando colaborar em projetos
     - 💬 Pergunte-me sobre qualquer coisa e tentarei ajudá-lo como puder!
 
