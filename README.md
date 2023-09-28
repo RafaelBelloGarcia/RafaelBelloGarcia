@@ -4,9 +4,7 @@
 
 
     - 🔭 Atualmente estou trabalhando em projetos pessoais
-    - 🌱 Habilidades: HTML, CSS, JavaScript, React
-    -  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"
-        width="500" height="320" /> Aprendendo: JAVA
+    - 🌱 Habilidades: HTML, CSS, JavaScript, React (Aprendendo: JAVA)
     - 👯 Estou procurando colaborar em projetos
     - 💬 Pergunte-me sobre qualquer coisa e tentarei ajudá-lo como puder!
 
